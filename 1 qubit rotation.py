@@ -12,7 +12,7 @@ B_0=1    # Magnetic field amplitude
 c = 2    # Gyromagnetic factor
 
 # We define the time scale
-s = np.linspace(0,1,10)
+s = np.linspace(0,1,100)
 
 # We define the magnetic field components
 def B_x(t):
@@ -49,4 +49,5 @@ plt.plot(s, b_z(s), label='b_z')
 plt.xlabel('s')
 plt.legend()
 plt.show()
+
 
