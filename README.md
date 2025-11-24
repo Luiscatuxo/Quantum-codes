@@ -4,6 +4,9 @@ In this  repository I gather different simulations regarding quantum physics and
 QUBIT SIMULATION CODES
 - 1 qubit rotation
 - 2 qubit rotation
+- 2 qubit rotation without interaction
+- 2 qubit rotation colormap
+- 2 qubit coupled
 - NV_center_code
 - Pulse (uses pulsesequence)
 - Twospin_system (uses operartors and singleNMR)
