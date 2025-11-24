@@ -12,6 +12,9 @@ QUBIT SIMULATION CODES
 - Twospin_system (uses operartors and singleNMR)
 
 GENERAL QUANTUM SIMULATIONS
+- Boson sampling experiment
+- Hong Ou Mandel experiment
+- Ralph CNOT
 - Bures distance and relative entropy
 - HOM fit (uses linear-scan-data_01)
 - Photonmeasurement
